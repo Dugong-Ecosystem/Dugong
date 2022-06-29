@@ -38,8 +38,8 @@ $DGNG is a Tax-Free Token, there is no taxation on buy/sell/transfer of tokens.<
 ## Liquidity Pools:
 ```mermaid
   graph TD;
-    SMDR-->SMDR/DGNG;
-    DGNG-->DGNG/GRASS;
-    DGNG-->SMDR/DGNG;
-    GRASS-->DGNG/GRASS;
+    SMDR-->(SMDR/DGNG);
+    DGNG-->(DGNG/GRASS);
+    DGNG-->(SMDR/DGNG);
+    GRASS-->(DGNG/GRASS);
 ```
