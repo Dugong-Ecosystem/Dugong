@@ -33,7 +33,7 @@
 ```
 
 ## Taxation:
-$GSI is a Tax-Free Token, there is no taxation on buy/sell/transfer of tokens.<br />
+$DGNG is a Tax-Free Token, there is no taxation on buy/sell/transfer of tokens.<br />
 
 ## Liquidity Pools:
 ```mermaid
